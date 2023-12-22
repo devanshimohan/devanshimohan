@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devanshimohan
-- <>I'm currently a Google Developer Students Club Lead @ ACEM
+- <> I'm currently a Google Developer Students Club Lead @ ACEM
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Games Development
 - 💞️ I’m looking to collaborate on WebDev
