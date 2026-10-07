@@ -1,7 +1,7 @@
 # Hi, I'm Devanshi Mohan 👋
 
 🎓 B.Tech Computer Science Engineering Graduate
-🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast
+\n🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast
 🛡️ Interested in Security Operations, Threat Intelligence & Incident Response
 💻 Building practical cybersecurity projects and learning through hands-on work
 
