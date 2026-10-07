@@ -1,9 +1,19 @@
-- 👋 Hi, I’m Devanshi Mohan
-- <> I'm currently a Google Developer Students Club Lead @ ACEM
-- 👀 I’m interested in Web Dev as well as Game dev and Hacking
-- 📫 Reach me @devanshimohann@gamil.com
+# Hi, I'm Devanshi Mohan 👋
 
-<!---
-devanshimohan/devanshimohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech Computer Science Engineering Graduate
+🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast
+🛡️ Interested in Security Operations, Threat Intelligence & Incident Response
+💻 Building practical cybersecurity projects and learning through hands-on work
+
+### 🔧 Areas of Interest
+
+* Security Operations & SOC
+* SIEM & Security Monitoring
+* Threat Intelligence & IOC Analysis
+* Incident Investigation & Response
+* Cybersecurity Automation
+
+### 📌 Featured Project
+
+**[IOC Enrichment & Threat Intelligence Tool](https://github.com/devanshimohan/IOC-Enrichment-Threat-Intelligence)**
+Python-based SOC automation tool for IOC enrichment, threat intelligence analysis, risk assessment, and investigation recommendations.
